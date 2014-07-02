@@ -1,3 +1,4 @@
-body 
-	{ background: url("little_triangles.png);
-	}  
+body{ 
+	background-image:url('../img/little_triangles.png');
+	background-repeat:repeat;
+}  
