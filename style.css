@@ -1,5 +1,1 @@
-body
-{ 
-	background-image:url('seamless.jpg');
-	background-repeat:repeat;
-}  
+<body background="seamless.jpg">
